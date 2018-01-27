@@ -1,5 +1,5 @@
 # ai-mapp
-This project is on Multi-Agent Path Planning using Decoupled Coordination Technique and a variant of A-star algorithm.
+This project is on Multi-Agent Path Planning(MAPP) using Decoupled Coordination Technique and a variant of A-star algorithm.
 It has a simulator that makes analysis of algorithm very easy.
 The project has been published for the students or anyone who pursue Artificial Intelligence, and is licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
 <br><br>
